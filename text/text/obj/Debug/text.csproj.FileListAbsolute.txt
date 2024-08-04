@@ -1,0 +1,17 @@
+D:\C#\text\text\bin\Debug\text.exe.config
+D:\C#\text\text\bin\Debug\text.exe
+D:\C#\text\text\bin\Debug\text.pdb
+D:\C#\text\text\obj\Debug\text.csproj.AssemblyReference.cache
+D:\C#\text\text\obj\Debug\text.Properties.Resources.resources
+D:\C#\text\text\obj\Debug\text.csproj.GenerateResource.cache
+D:\C#\text\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+D:\C#\text\text\obj\Debug\text.exe
+D:\C#\text\text\obj\Debug\text.pdb
+D:\C#\text\text\obj\Debug\text.Form1.resources
+D:\C#\text\text\bin\Debug\EPPlus.dll
+D:\C#\text\text\bin\Debug\EPPlus.Interfaces.dll
+D:\C#\text\text\bin\Debug\EPPlus.System.Drawing.dll
+D:\C#\text\text\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\C#\text\text\bin\Debug\EPPlus.xml
+D:\C#\text\text\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\C#\text\text\obj\Debug\text.csproj.CopyComplete

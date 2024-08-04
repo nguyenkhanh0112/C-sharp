@@ -1,0 +1,11 @@
+D:\C#\Triển khai kiến trúc đa tầng\BLL\bin\Debug\BLL.dll
+D:\C#\Triển khai kiến trúc đa tầng\BLL\bin\Debug\BLL.pdb
+D:\C#\Triển khai kiến trúc đa tầng\BLL\bin\Debug\DAL.dll
+D:\C#\Triển khai kiến trúc đa tầng\BLL\bin\Debug\DTO.dll
+D:\C#\Triển khai kiến trúc đa tầng\BLL\bin\Debug\DAL.pdb
+D:\C#\Triển khai kiến trúc đa tầng\BLL\bin\Debug\DTO.pdb
+D:\C#\Triển khai kiến trúc đa tầng\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\C#\Triển khai kiến trúc đa tầng\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\C#\Triển khai kiến trúc đa tầng\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\C#\Triển khai kiến trúc đa tầng\BLL\obj\Debug\BLL.dll
+D:\C#\Triển khai kiến trúc đa tầng\BLL\obj\Debug\BLL.pdb

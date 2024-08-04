@@ -1,0 +1,11 @@
+D:\C#\QLBanHang\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\C#\QLBanHang\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\C#\QLBanHang\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\C#\QLBanHang\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\C#\QLBanHang\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\C#\QLBanHang\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\C#\QLBanHang\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\C#\QLBanHang\BusinessLogicLayer\bin\Debug\ValueObject.dll
+D:\C#\QLBanHang\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\C#\QLBanHang\BusinessLogicLayer\bin\Debug\ValueObject.pdb
+D:\C#\QLBanHang\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete

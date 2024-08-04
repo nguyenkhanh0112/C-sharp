@@ -1,0 +1,12 @@
+D:\C#\KiemTra16-5\KiemTra16-5\bin\Debug\KiemTra16-5.exe.config
+D:\C#\KiemTra16-5\KiemTra16-5\bin\Debug\KiemTra16-5.exe
+D:\C#\KiemTra16-5\KiemTra16-5\bin\Debug\KiemTra16-5.pdb
+D:\C#\KiemTra16-5\KiemTra16-5\obj\Debug\KiemTra16-5.csproj.AssemblyReference.cache
+D:\C#\KiemTra16-5\KiemTra16-5\obj\Debug\KiemTra16-5.csproj.SuggestedBindingRedirects.cache
+D:\C#\KiemTra16-5\KiemTra16-5\obj\Debug\KiemTra16-5.csproj.ResolveComReference.cache
+D:\C#\KiemTra16-5\KiemTra16-5\obj\Debug\KiemTra16_5.Properties.Resources.resources
+D:\C#\KiemTra16-5\KiemTra16-5\obj\Debug\KiemTra16-5.csproj.GenerateResource.cache
+D:\C#\KiemTra16-5\KiemTra16-5\obj\Debug\KiemTra16-5.csproj.CoreCompileInputs.cache
+D:\C#\KiemTra16-5\KiemTra16-5\obj\Debug\KiemTra16-5.exe
+D:\C#\KiemTra16-5\KiemTra16-5\obj\Debug\KiemTra16-5.pdb
+D:\C#\KiemTra16-5\KiemTra16-5\obj\Debug\KiemTra16_5.Form1.resources

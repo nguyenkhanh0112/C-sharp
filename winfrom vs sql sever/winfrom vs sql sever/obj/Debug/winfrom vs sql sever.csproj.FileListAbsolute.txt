@@ -1,0 +1,26 @@
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\bin\Debug\winfrom vs sql sever.exe
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\bin\Debug\winfrom vs sql sever.pdb
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom vs sql sever.csproj.AssemblyReference.cache
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom vs sql sever.csproj.SuggestedBindingRedirects.cache
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom_vs_sql_sever.Form1.resources
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom_vs_sql_sever.Properties.Resources.resources
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom vs sql sever.csproj.GenerateResource.cache
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom vs sql sever.csproj.CoreCompileInputs.cache
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom vs sql sever.exe
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom vs sql sever.pdb
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom_vs_sql_sever.Form3.resources
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom_vs_sql_sever.Truyvanlaymotgiatri.resources
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom_vs_sql_sever.Form4.resources
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom_vs_sql_sever.Form5.resources
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom_vs_sql_sever.Form6.resources
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom_vs_sql_sever.From7.resources
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom_vs_sql_sever.Form8.resources
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom_vs_sql_sever.Form10.resources
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom_vs_sql_sever.Form12.resources
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom_vs_sql_sever.Form13.resources
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom_vs_sql_sever.Form14.resources
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\bin\Debug\winfrom vs sql sever.exe.config
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom_vs_sql_sever.Form15.resources
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom_vs_sql_sever.Form16.resources
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom_vs_sql_sever.Form17.resources
+D:\C#\winfrom vs sql sever\winfrom vs sql sever\obj\Debug\winfrom_vs_sql_sever.Form18.resources

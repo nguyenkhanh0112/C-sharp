@@ -1,0 +1,9 @@
+D:\C#\QLBanHang\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\C#\QLBanHang\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\C#\QLBanHang\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\C#\QLBanHang\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\C#\QLBanHang\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\C#\QLBanHang\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\C#\QLBanHang\DataAccessLayer\bin\Debug\ValueObject.dll
+D:\C#\QLBanHang\DataAccessLayer\bin\Debug\ValueObject.pdb
+D:\C#\QLBanHang\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
